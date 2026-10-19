@@ -11,3 +11,6 @@ https://www.loom.com/share/c403b23b0eb840a8880cb6b66aee34aa
 
 ## Peer-graded Assignment: Show What You Know: Write and Explain A Program Oct 18
 https://www.loom.com/share/cf122cddc5d7467487592a647745ec68
+
+## Peer-graded Assignment: Show What You Know: Write and Explain A Program
+https://www.loom.com/share/5a63ac09547e4aff982cd0512ac760e1
